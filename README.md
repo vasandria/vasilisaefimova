@@ -7,6 +7,10 @@
 
 ### Веб-проектирование
 
+[18/09/2018 Введение в JS](https://kodaktor.ru/g/task_2ad84)
 [25/10/2018](https://3336.kodaktor.ru/efimova?{%22status%22:%22student%22,%22year%22:2018})
+[13/11/2018 async_tasks](https://codepen.io/anon/pen/XyqVZv)
+[16/10/2018 Упражнение 6.1](/js/16-10-18)
+
 
 ### Программирование (Python)
