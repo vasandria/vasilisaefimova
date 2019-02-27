@@ -15,3 +15,4 @@
 
 
 ### Программирование (Python)
+* [Самостоятельная работа 2](https://repl.it/@vasandria/RespectfulEvergreenOpposites)
