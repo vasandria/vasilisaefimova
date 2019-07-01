@@ -3,7 +3,7 @@
 ### Обогащенные интерфейсы веб-приложений
 
 * [21/02/2019 Создание пользовательского события. Корзина.](https://kodaktor.ru/custom_d842f "Создание пользовательского события. Корзина.")
-* [21/02/2019 Создание пользовательского события](https://kodaktor.ru/custom_a96fb)
+* [21/02/2019 Создание пользовательского события. evnt_002 ](https://kodaktor.ru/custom_a96fb)
 * [FUNC-001](https://kodaktor.ru/b83d4ca)
 * [FUNC-002](https://kodaktor.ru/func_7c211)
 * [FUNC-003](https://kodaktor.ru/func_2a666)
@@ -14,6 +14,9 @@
 * [FUNC-008](https://kodaktor.ru/func_83990)
 * [FUNC-009](https://kodaktor.ru/func_e4522)
 * [FUNC-010](https://kodaktor.ru/b83d4ca)
+* [IPS_TASK](https://kodaktor.ru/9e8363b)
+* [evnt_003 ](https://kodaktor.ru/evnt_51c8a)
+* [BABL_002](https://kodaktor.ru/bind02032018_fe671)
 
 
 ### Веб-проектирование
