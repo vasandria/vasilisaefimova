@@ -1,5 +1,19 @@
 # Портфолио
-### Работы выполила студент группы ИВТ(1) подгруппы 2 Ефимова В.С.
+### Работы выполила студент группы ИВТ Ефимова В.С.
+### Управление программными проектами (УПП)
+* [Тема 1. Введение в проектное управление. ИСР, ВСР](https://github.com/ctel-prj-mng/3-ivt-17-t1-vasandria)
+* [Лабораторная работа 1, 2, 3. Диаграмма Ганта](https://github.com/ctel-prj-mng/1-gantt-60218-vasandria)
+* [Тема 2. Организация процесса разработки. ИСР, ВСР](https://github.com/ctel-prj-mng/3-ivt-17-t2-vasandria)
+* [Лабораторная работа 4, 5, 6. Макет](https://github.com/ctel-prj-mng/2-wireframe-130218-vasandria)
+* [Лабораторная работа 7, 8, 9. ТЗ](https://github.com/ctel-prj-mng/3-tz-200218-vasandria/tree/master)
+* [Тема 3. Планирование программного проекта. ИСР, ВСР](https://github.com/ctel-prj-mng/3-ivt-17-t3-vasandria)
+* [ЛР 10](https://github.com/ctel-prj-mng/scrum-glossary)
+* [ЛР 11](https://github.com/vasandria/test-pull-req)
+* [ЛР 12, 13](https://vk.com/away.php?utf=1&to=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F13ZBLtBshuCr_7Sx8rnl0I6iR01MHmkF2Zu_7Tgo8pIU%2Fedit)
+* [Тема 4. ПО управления проектами. ИСР, ВСР]()
+* [ЛР 14](https://github.com/ctel-prj-mng/3-ivt-17-t4-vasandria)
+
+
 ### Обогащенные интерфейсы веб-приложений
 
 * [21/02/2019 Создание пользовательского события. Корзина.](https://kodaktor.ru/custom_d842f "Создание пользовательского события. Корзина.")
