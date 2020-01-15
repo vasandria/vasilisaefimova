@@ -10,7 +10,7 @@
 * [ИСР](https://github.com/ctel-prj-mng/3-ivt-17-t2-vasandria/blob/master/ISR.md)
 * [ВСР](https://github.com/ctel-prj-mng/3-ivt-17-t2-vasandria/blob/master/VSR.md)
 * [Лабораторная работа 4, 5, 6. Макет](https://github.com/ctel-prj-mng/2-wireframe-130218-vasandria/blob/master/wireframe.md)
-* [Лабораторная работа 7, 8, 9. ТЗ](https://github.com/ctel-prj-mng/3-tz-200218-vasandria/tree/master)
+* [Лабораторная работа 7, 8, 9. ТЗ](https://github.com/ctel-prj-mng/3-tz-200218-vasandria/blob/master/requirements.md)
 
 ### Тема 3. Планирование программного проекта.
 * [ИСР](https://github.com/ctel-prj-mng/3-ivt-17-t3-vasandria/blob/master/ISR.md)
