@@ -14,7 +14,7 @@
 
 ### Тема 3. Планирование программного проекта.
 * [ИСР](https://github.com/ctel-prj-mng/3-ivt-17-t3-vasandria/blob/master/ISR.md)
-* [ВСР](https://github.com/ctel-prj-mng/3-ivt-17-t3-vasandria)
+* [ВСР](https://github.com/ctel-prj-mng/3-ivt-17-t3-vasandria/blob/master/VSR.md)
 * [ЛР 10](https://github.com/ctel-prj-mng/scrum-glossary)
 * [ЛР 11](https://github.com/vasandria/test-pull-req)
 * [ЛР 12, 13](https://docs.google.com/document/d/13ZBLtBshuCr_7Sx8rnl0I6iR01MHmkF2Zu_7Tgo8pIU/editt)
