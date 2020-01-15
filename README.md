@@ -17,7 +17,7 @@
 * [ВСР](https://github.com/ctel-prj-mng/3-ivt-17-t3-vasandria/blob/master/VSR.md)
 * [ЛР 10](https://github.com/ctel-prj-mng/scrum-glossary)
 * [ЛР 11](https://github.com/vasandria/test-pull-req)
-* [ЛР 12, 13](https://docs.google.com/document/d/13ZBLtBshuCr_7Sx8rnl0I6iR01MHmkF2Zu_7Tgo8pIU/editt)
+* [ЛР 12, 13](https://docs.google.com/document/d/13ZBLtBshuCr_7Sx8rnl0I6iR01MHmkF2Zu_7Tgo8pIU/edit?usp=sharing)
 
 ### Тема 4. ПО управления проектами.
 * [Тема 4. ПО управления проектами. ИСР, ВСР]()
