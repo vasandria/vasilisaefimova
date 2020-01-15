@@ -13,10 +13,11 @@
 * [Лабораторная работа 7, 8, 9. ТЗ](https://github.com/ctel-prj-mng/3-tz-200218-vasandria/tree/master)
 
 ### Тема 3. Планирование программного проекта.
-* [ИСР, ВСР](https://github.com/ctel-prj-mng/3-ivt-17-t3-vasandria)
+* [ИСР](https://github.com/ctel-prj-mng/3-ivt-17-t3-vasandria/blob/master/ISR.md)
+* [ВСР](https://github.com/ctel-prj-mng/3-ivt-17-t3-vasandria)
 * [ЛР 10](https://github.com/ctel-prj-mng/scrum-glossary)
 * [ЛР 11](https://github.com/vasandria/test-pull-req)
-* [ЛР 12, 13](https://vk.com/away.php?utf=1&to=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F13ZBLtBshuCr_7Sx8rnl0I6iR01MHmkF2Zu_7Tgo8pIU%2Fedit)
+* [ЛР 12, 13](https://docs.google.com/document/d/13ZBLtBshuCr_7Sx8rnl0I6iR01MHmkF2Zu_7Tgo8pIU/editt)
 
 ### Тема 4. ПО управления проектами.
 * [Тема 4. ПО управления проектами. ИСР, ВСР]()
