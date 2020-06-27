@@ -1,5 +1,5 @@
 # Портфолио
-### Работы выполила студент группы ИВТ Ефимова В.С.
+### Работы выполила студентка направления ИВТ, Ефимова В.С.
 ## Управление программными проектами (УПП)
 ### Тема 1. Введение в проектное управление.
 * [ИСР](https://github.com/ctel-prj-mng/3-ivt-17-t1-vasandria/blob/master/ISR.md)
@@ -57,4 +57,12 @@
 * [Самостоятельная работа 2](https://repl.it/@vasandria/RespectfulEvergreenOpposites)
 * [ИСР 1.2](https://github.com/vasandria/vasilisaefimova/blob/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%203/isr1/3_isr_1.2.py)
 * [ИСР 1.3](https://github.com/vasandria/vasilisaefimova/blob/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%203/isr1/3_isr_1.3.py)
+
+
+### 4 семестр
+здесь скоро все будет
+### 5 семестр
+здесь скоро все будет
+### 6 семестр
+здесь скоро все будет
 
