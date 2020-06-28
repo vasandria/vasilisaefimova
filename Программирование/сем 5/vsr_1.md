@@ -95,12 +95,12 @@ copy()` копирует содержимое файла, и права дост
 
 **shutil.get_archive_formats()** - список доступных форматов для архивирования.
 
-`>>> shutil.get_archive_formats()
+```>>> shutil.get_archive_formats()
 [('bztar', "bzip2'ed tar-file"),
 ('gztar', "gzip'ed tar-file"),
 ('tar', 'uncompressed tar file'),
 ('xztar', "xz'ed tar-file"),
-('zip', 'ZIP file')]`
+('zip', 'ZIP file')]```
 
 **shutil.unpack_archive(filename[, extract_dir[, format]])** - распаковывает архив. filename - полный путь к архиву.
 
@@ -118,7 +118,7 @@ copy()` копирует содержимое файла, и права дост
 
 >>>
 
-`>>> shutil.get_terminal_size()
+```>>> shutil.get_terminal_size()
 os.terminal_size(columns=102, lines=29)
 >>> shutil.get_terminal_size()  # Уменьшили окно
-os.terminal_size(columns=67, lines=17)`
+os.terminal_size(columns=67, lines=17)```
