@@ -48,8 +48,10 @@ copy()` копирует содержимое файла, и права дост
 
 Например:
 
-`copytree(source, destination, ignore=ignore_patterns('*.pyc', 'tmp*'))
-# Скопирует все файлы, кроме заканчивающихся на .pyc или начинающихся с tmp`
+```python
+copytree(source, destination, ignore=ignore_patterns('*.pyc', 'tmp*'))
+# Скопирует все файлы, кроме заканчивающихся на .pyc или начинающихся с tmp
+```
 
 **shutil.rmtree(path, ignore_errors=False, onerror=None)** - Удаляет текущую директорию и все поддиректории; `path` должен указывать на директорию, а не на символическую ссылку.
 
