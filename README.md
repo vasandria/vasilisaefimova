@@ -81,6 +81,7 @@
 * [ВСР 2](https://github.com/vasandria/vasilisaefimova/blob/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%205/vsr_2.py)
 * [ИСР 3.1](https://github.com/vasandria/vasilisaefimova/blob/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%205/isr_3.py)
 * [ИСР 3.2](https://github.com/vasandria/vasilisaefimova/blob/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%205/isr_3.2.py)
+* [ИСР 4.1](https://github.com/vasandria/vasilisaefimova/tree/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%205/isr_4.1)
 
 
 ### 6 семестр
