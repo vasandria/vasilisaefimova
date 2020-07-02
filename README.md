@@ -50,7 +50,7 @@
 * [13/11/2018 async_tasks](https://codepen.io/anon/pen/XyqVZv)
 * [16/10/2018 Упражнение 6.1](/js/16-10-18)
 
-
+## [Инженерная и компьютерная графика](https://github.com/vasandria/graphics/blob/master/README.md)
 
 ## Программирование (Python)
 ### 3 семестр
