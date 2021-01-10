@@ -96,5 +96,6 @@
 ### Дополнительное задание
 * [cсылка](https://repl.it/@vasandria/dop)
 
-### 6 семестр
+### 7 семестр
 * [ЛР 1](https://github.com/herzenuni/sem7-task1-vasandria)
+* [ЛР 2](https://repl.it/@vasandria/sem7-task2#main.py)
