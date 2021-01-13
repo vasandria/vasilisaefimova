@@ -99,3 +99,18 @@
 ### 7 семестр
 * [ЛР 1](https://github.com/herzenuni/sem7-task1-vasandria)
 * [ЛР 2](https://repl.it/@vasandria/sem7-task2#main.py)
+* [ЛР 3]()
+* [ЛР 4]()
+* [ЛР 5]()
+* [ЛР 6]()
+* [ЛР 7](https://github.com/vasandria/CouchDB_project)
+* [ИСР 1](https://repl.it/@vasandria/RoyalChartreuseMozbot#main.py)
+* [ИСР 2](https://repl.it/@vasandria/LeafyDarkturquoiseSolution#main.py)
+* [ИСР 3]()
+* [ИСР 4]()
+* [ВСР 1]()
+* [ВСР 2]()
+* [ВСР 3]()
+* [ВСР 4]()
+
+
