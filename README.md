@@ -106,7 +106,7 @@
 * [ЛР 7](https://github.com/vasandria/CouchDB_project)
 * [ИСР 1](https://repl.it/@vasandria/RoyalChartreuseMozbot#main.py)
 * [ИСР 2](https://repl.it/@vasandria/LeafyDarkturquoiseSolution#main.py)
-* [ИСР 3]()
+* [ИСР 3.1](https://github.com/vasandria/CouchDB_project)
 * [ИСР 4]()
 * [ВСР 1]()
 * [ВСР 2]()
