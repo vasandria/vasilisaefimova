@@ -101,7 +101,7 @@
 * [ЛР 2](https://repl.it/@vasandria/sem7-task2#main.py)
 * [ЛР 3]()
 * [ЛР 4](https://github.com/vasandria/prog7_lr4)
-* [ЛР 5]()
+* [ЛР 5](https://github.com/vasandria/prog7_lr5)
 * [ЛР 6]()
 * [ЛР 7](https://github.com/vasandria/CouchDB_project)
 * [ИСР 1](https://repl.it/@vasandria/RoyalChartreuseMozbot#main.py)
