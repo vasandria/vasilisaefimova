@@ -1,0 +1,109 @@
+% "Лабораторная работа 7"
+
+\documentclass[a4paper,12pt]{article} % тип документа
+
+% report, book
+
+%  Русский язык
+
+\usepackage[T2A]{fontenc}			% кодировка
+\usepackage[utf8]{inputenc}			% кодировка исходного текста
+\usepackage[english,russian]{babel}	% локализация и переносы
+
+
+% Математика
+\usepackage{amsmath,amsfonts,amssymb,amsthm,mathtools} 
+
+
+\usepackage{wasysym}
+\usepackage{hyperref}
+
+
+%Заговолок
+\author{Ефимова В.С. ИВТ3}
+\title{Тема 7. Вариативная самостоятельная работа}
+\date{\today}
+
+
+\begin{document} % начало документа
+\maketitle
+\newpage
+\section{Производная}
+\textit{Определение}
+Пусть функция $f(x)$ определена в некоторой окрестности точки
+$x0$. Производной функции $f(x)$ в точке $x0$ называется
+\begin{equation*}
+\lim_{\Delta x \to 0}\frac{f(x_{0}+\Delta x)-f(x_{0})}{\Delta x}=\lim_{\Delta x \to 0}\frac{\Delta f}{\Delta x}.
+\end{equation*}
+Обозначение: $f'(x_{0}), \dfrac{df(x_{0})}{dx}.$
+Если 
+\begin{equation*}
+\lim_{\Delta x \to 0}\frac{\Delta f)}{\Delta x}=\infty, +\infty, -\infty,
+\end{equation*}
+то говорят, что в точке $x0$ существует бесконечная производная.
+
+\textit{Определение}
+Правосторонней производной функции $f(x)$ в точке $x0$ называется
+\begin{equation*}
+\lim_{\Delta x \to 0+0}\frac{\Delta f)}{\Delta x}
+\end{equation*}
+Обозначение: $f'_{+}(x_{0})$
+
+\textit{Определение}
+Левосторонней производной функции $f(x)$ в точке $x0$ называется
+\begin{equation*}
+\lim_{\Delta x \to 0-0}\frac{\Delta f)}{\Delta x}
+\end{equation*}
+Обозначение: $f'_{-}(x_{0})$
+
+\textit{Определение}
+Правосторонняя и левосторонняя производные называются односторонними производными.
+
+\textit{Теорема (о связи односторонних производных с двусторонней)}
+$\exists f'(x_{0})=A\Leftrightarrow\exists f'_{+}(x_{0})=A, f'_(x_{0})=A.$
+
+\textit{Определение}
+Процесс нахождения производной называется дифференцированием.
+
+\section{Физический смысл производной}
+Пусть $S(t)$ - длина пути, пройденного телом за время $t$. Тогда
+средняя скорость движения тела на интервале $[t, t + \Delta t]$ будет
+
+\begin{equation*}
+V_{sr}=\dfrac{S(t+\Delta t)- S(t)}{\Delta t}.
+\end{equation*}
+Соответственно, мгновенная скорость движения будет равна
+\begin{equation*}
+V\dfrac{dS}{dT}.
+\end{equation*}
+
+\section{Вычисление производных}
+
+\textit{Производные основных элементарных функций:}
+\begin{enumerate}
+\item $c'=0$
+\item $(x^{a})'=\alpha^{x}\ln a$
+\item $(a^{x})'=a^{x}\ln a$
+\item $(e^{x})'=e^{x}$
+\item $(\log_{a}x)'=\dfrac{1}{x ln a}$
+\item $(\ln x)'=\dfrac{1}{x}$
+\item $(\sin x)'=\cos x$
+\item $(\cos x)'=-\sin x$
+\item $(\tg x)'=\dfrac{1}{\cos^{2}x}$
+\item $(\ctg x)'=-\dfrac{1}{\sin^{2}x}$
+\item $(\arcsin x)'=\dfrac{1}{\sqrt{1-x^{2}}}$
+\item $(\arccos x)'=-\dfrac{1}{\sqrt{1-x^{2}}}$
+\item $(\arctg x)'=\dfrac{1}{\sqrt{1+x^{2}}}$
+\item $(\arcctg x)'=-\dfrac{1}{\sqrt{1+x^{2}}}$
+\end{enumerate}
+
+\textit{Правила нахождения производных, связанные с арифметическими
+действиями над функциями:}
+\begin{enumerate}
+\item $(u+v)'=u'+v'$
+\item $(uv)'=u'v+uv'$
+\item $(\dfrac{u}{v})'=\dfrac{u'v-uv'}{v^{2}}$
+\item $(cu)'=c \cdot u'$
+\item $c'=0$
+\end{enumerate}
+\end{document} % конец документа

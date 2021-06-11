@@ -1,0 +1,98 @@
+% "Лабораторная работа 9"
+
+\documentclass[a4paper,12pt]{article} % тип документа
+
+% report, book
+
+%  Русский язык
+
+\usepackage[T2A]{fontenc}			% кодировка
+\usepackage[utf8]{inputenc}			% кодировка исходного текста
+\usepackage[english,russian]{babel}	% локализация и переносы
+
+
+% Математика
+\usepackage{amsmath,amsfonts,amssymb,amsthm,mathtools} 
+
+
+\usepackage{wasysym}
+\usepackage{hyperref}
+
+
+%Заговолок
+\author{Ефимова В.С. ИВТ3}
+\title{Тема 9. Инвариантная работа}
+\date{\today}
+
+
+\begin{document} % начало документа
+\maketitle
+\newpage
+\begin{center}
+\section*{Таблица дифференциалов}
+\begin{table}[h]
+\begin{tabular}{|p{200pt}|p{200pt}|}
+\hline
+Функция & Дифференциал \\
+\hline
+$f'(c)$ & $0$ \\
+\hline
+$f'(x^{a})$ & $\alpha^{x}\ln a$ \\
+\hline
+$f'(a^{x})$ & $a^{x}\ln a$ \\
+\hline
+$f'(e^{x})$ & $e^{x}$ \\
+\hline
+$f'(\log_{a}x)$ & $\dfrac{1}{x ln a}$ \\
+\hline
+$f'(\ln x)$ & $\dfrac{1}{x}$ \\
+\hline
+$f'(\sin x)$ & $\cos x$ \\
+\hline
+$f'(\cos x)$ & $-\sin x$ \\
+\hline
+$f'(\tg x)$ & $\dfrac{1}{\cos^{2}x}$ \\
+\hline
+$f'(\ctg x)$ & $-\dfrac{1}{\sin^{2}x}$ \\
+\hline
+$f'(\arcsin x)$ & $\dfrac{1}{\sqrt{1-x^{2}}}$ \\
+\hline
+$f'(\arccos x)$ & $-\dfrac{1}{\sqrt{1-x^{2}}}$ \\
+\hline
+$f'(\arctg x)$ & $\dfrac{1}{\sqrt{1+x^{2}}}$ \\
+\hline
+$f'(\arcctg x)$ & $-\dfrac{1}{\sqrt{1+x^{2}}}$ \\
+\hline
+\end{tabular} 
+\end{table}
+
+\section*{Таблица интегралов}
+\begin{table}[h]
+\begin{tabular}{|p{200pt}|p{200pt}|}
+\hline
+$\int{0 \cdot dx}$ & $C$ \\
+\hline
+$\int{1 \cdot dx}$ & $x+C$\\
+\hline
+$\int{x^{\alpha}dx}$ & $\frac{x^{\alpha+1}}{\alpha+1}+C , (\alpha\neq-1) $ \\
+\hline
+$\int{\frac{1}{x}dx}$ & $ln|x|+C$\\
+\hline
+$\int{a^x dx}$ & $\frac{a^x}{lna}+C$ \\
+\hline
+$\int{sinxdx}$ & $-cosx+C$\\
+\hline
+$\int{cosxdx}$ & $sinx+C$ \\
+\hline
+$\int{tgxdx}$ & $-ln|cosx|+C$ \\
+\hline
+$\int{ctgxdx}$ & $ln|sinx|+C$ \\
+\hline
+$\int{\frac{1}{cos^2x}dx}$ & $tgx+C$ \\
+\hline
+$\int{\frac{1}{sin^2x}dx}$ & $-ctgx+C$ \\
+\hline
+\end{tabular} 
+\end{table}
+\end{center}
+\end{document}

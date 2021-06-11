@@ -1,0 +1,60 @@
+% "Лабораторная работа 8"
+
+\documentclass[a4paper,12pt]{article} % тип документа
+
+% report, book
+
+%  Русский язык
+
+\usepackage[T2A]{fontenc}			% кодировка
+\usepackage[utf8]{inputenc}			% кодировка исходного текста
+\usepackage[english,russian]{babel}	% локализация и переносы
+
+
+% Математика
+\usepackage{amsmath,amsfonts,amssymb,amsthm,mathtools} 
+
+
+\usepackage{wasysym}
+\usepackage{hyperref}
+
+
+%Заговолок
+\author{Ефимова В.С. ИВТ3}
+\title{Тема 8. Инвариантная работа}
+\date{\today}
+
+
+\begin{document} % начало документа
+\maketitle
+\newpage
+\begin{center}
+\textbf{{\Huge МАТРИЦЫ}}
+\begin{table}[h]
+\begin{tabular}{|c c|c|c|}
+\hline
+$\backslash$ Команда & \{Окружение\} & Назначение & Примечание \\
+\hline
+$\backslash$ begin & \{matrix\} & создание матрицы без скобок & открывающая команда \\
+$\backslash$ end & \{matrix\} &  & закрывающая команда \\
+\hline
+$\backslash$ begin & \{pmatrix\} & создание матрицы в круглых скобках & открывающая команда  \\
+$\backslash$ end & \{pmatrix\} &  & закрывающая команда \\
+\hline
+$\backslash$ begin & \{bmatrix\} & создание матрицы в квадратных скобках & открывающая команда \\
+$\backslash$ end & \{bmatrix\} &  & закрывающая команда \\
+\hline
+$\backslash$ begin & \{vmatrix\} & создание матрицы в прямых скобках & открывающая команда \\
+$\backslash$ end & \{vmatrix\} &  & закрывающая команда \\
+\hline
+$\backslash$ begin & \{Vmatrix\} & создание матрицы в двойных прямых скобках & открывающая команда \\ 
+$\backslash$ end & \{Vmatrix\} &  & закрывающая команда \\
+\hline
+\& &  & разделение между элементами матрицы&  \\
+\hline
+$\backslash$ $\backslash$ &  & новая строка &  \\
+\hline
+\end{tabular} 
+\end{table}
+\end{center}
+\end{document}
