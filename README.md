@@ -52,6 +52,62 @@
 * [ЛР10](https://github.com/vasandria/vasilisaefimova/tree/master/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81%20%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B8/%D0%9B%D0%A0%2010)
 
 ### Анализ данных
+* [Анализ временных рядов](https://github.com/vasandria/vasilisaefimova/tree/master/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%94%D0%B0%D0%BD%D0%BD%D1%8B%D1%85/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D1%85%20%D1%80%D1%8F%D0%B4%D0%BE%D0%B2)
+* [Классификация погрешностей измерения](https://github.com/vasandria/vasilisaefimova/tree/master/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%94%D0%B0%D0%BD%D0%BD%D1%8B%D1%85/%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BF%D0%BE%D0%B3%D1%80%D0%B5%D1%88%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B8%CC%86%20%D0%B8%D0%B7%D0%BC%D0%B5%D1%80%D0%B5%D0%BD%D0%B8%D1%8F)
+* [Корреляция](https://github.com/vasandria/vasilisaefimova/tree/master/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%94%D0%B0%D0%BD%D0%BD%D1%8B%D1%85/%D0%9A%D0%BE%D1%80%D1%80%D0%B5%D0%BB%D1%8F%D1%86%D0%B8%D1%8F)
+* [Непрерывные случайные величины](https://github.com/vasandria/vasilisaefimova/tree/master/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%94%D0%B0%D0%BD%D0%BD%D1%8B%D1%85/%D0%9D%D0%B5%D0%BF%D1%80%D0%B5%D1%80%D1%8B%D0%B2%D0%BD%D1%8B%D0%B5%20%D1%81%D0%BB%D1%83%D1%87%D0%B0%D0%B8%CC%86%D0%BD%D1%8B%D0%B5%20%D0%B2%D0%B5%D0%BB%D0%B8%D1%87%D0%B8%D0%BD%D1%8B)
+* [Показатели вариации](https://github.com/vasandria/vasilisaefimova/tree/master/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%94%D0%B0%D0%BD%D0%BD%D1%8B%D1%85/%D0%9F%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B8%20%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D1%86%D0%B8%D0%B8)
+* [Построение вариационного ряда](https://github.com/vasandria/vasilisaefimova/tree/master/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%94%D0%B0%D0%BD%D0%BD%D1%8B%D1%85/%D0%9F%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE%20%D1%80%D1%8F%D0%B4%D0%B0)
+* [Проверка статистических гипотез](https://github.com/vasandria/vasilisaefimova/tree/master/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%94%D0%B0%D0%BD%D0%BD%D1%8B%D1%85/%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0%20%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85%20%D0%B3%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%B7)
+* [Средние величины](https://github.com/vasandria/vasilisaefimova/tree/master/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%94%D0%B0%D0%BD%D0%BD%D1%8B%D1%85/%D0%A1%D1%80%D0%B5%D0%B4%D0%BD%D0%B8%D0%B5%20%D0%B2%D0%B5%D0%BB%D0%B8%D1%87%D0%B8%D0%BD%D1%8B)
+* [Числовые характеристики случайных величин](https://github.com/vasandria/vasilisaefimova/tree/master/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%94%D0%B0%D0%BD%D0%BD%D1%8B%D1%85/%D0%A7%D0%B8%D1%81%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D1%85%D0%B0%D1%80%D0%B0%D0%BA%D1%82%D0%B5%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B8%20%D1%81%D0%BB%D1%83%D1%87%D0%B0%D0%B8%CC%86%D0%BD%D1%8B%D1%85%20%D0%B2%D0%B5%D0%BB%D0%B8%D1%87%D0%B8%D0%BD)
+* [ЛР4](https://github.com/vasandria/vasilisaefimova/tree/master/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%94%D0%B0%D0%BD%D0%BD%D1%8B%D1%85/%D0%9B%D0%A04)
+* [Дополнительные задачи](https://github.com/vasandria/vasilisaefimova/tree/master/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%94%D0%B0%D0%BD%D0%BD%D1%8B%D1%85/%D0%94%D0%BE%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8)
+
+### [Основы компьютерной алгебры](https://github.com/vasandria/vasilisaefimova/tree/master/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D0%BE%D0%B8%CC%86%20%D0%90%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D1%8B)
+### [Деловое общение](https://github.com/vasandria/vasilisaefimova/tree/master/%D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D0%BE%D0%B5%20%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D0%B5)
+
+### [Базы Данных](https://github.com/vasandria/vasilisaefimova/tree/master/%D0%91%D0%B0%D0%B7%D1%8B%20%D0%94%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)
+
+### [Информационные технологии в решении задач оптимизации](https://github.com/vasandria/vasilisaefimova/tree/master/%D0%98%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8%20%D0%B2%20%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B8%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%20%D0%BE%D0%BF%D1%82%D0%B8%D0%BC%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8)
+
+### [Технологии компьютерного моделирования](https://github.com/vasandria/vasilisaefimova/tree/master/%D0%A2%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8%20%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F)
+
+### [Интегрированные издательские системы и технологии](https://github.com/vasandria/vasilisaefimova/tree/master/%D0%98%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%B8%D0%B7%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B%20%D0%B8%20%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8)
+
+### [?? Техника и технологии представления и публикации информации]()
+
+### [Сети и телекоммуникации](https://github.com/vasandria/vasilisaefimova/tree/master/%D0%A1%D0%B5%D1%82%D0%B8%20%D0%B8%20%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D0%BD%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8)
+
+### [Экология](https://github.com/vasandria/vasilisaefimova/tree/master/%D0%AD%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)
+
+### [Электротехника, электроника и схемотехника](https://github.com/vasandria/vasilisaefimova/tree/master/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0%2C%20%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0%20%D0%B8%20%D1%81%D1%85%D0%B5%D0%BC%D0%BE%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0)
+
+### [Информационные технологии и системы бизнес-аналитики](https://github.com/vasandria/vasilisaefimova/tree/master/%D0%98%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8%20%D0%B8%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B%20%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B8)
+
+### [?? Прикладные информационные технологии]()
+
+### [Защита информаци](https://github.com/vasandria/vasilisaefimova/tree/master/%D0%97%D0%B0%D1%89%D0%B8%D1%82%D0%B0%20%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%B8)
+
+### [Физическая культура и спорт](https://github.com/vasandria/vasilisaefimova/tree/master/%D0%A4%D0%B8%D0%B7%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B0%20%D0%B8%20%D1%81%D0%BF%D0%BE%D1%80%D1%82)
+
+### [Правоведение](https://github.com/vasandria/vasilisaefimova/tree/master/%D0%9F%D1%80%D0%B0%D0%B2%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5)
+
+### [?? Организация электронной образовательной среды где-то на гит]()
+
+### [Практикум по программированию](https://github.com/vasandria/vasilisaefimova/tree/master/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D1%83%D0%BC%20%D0%BF%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8E)
+
+### [?? IT-рекрутмент]()
+
+### [Лингвистические основы иноязычной коммуникации](https://github.com/vasandria/vasilisaefimova/tree/master/%D0%9B%D0%B8%D0%BD%D0%B3%D0%B2%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5%20%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%B8%D0%BD%D0%BE%D1%8F%D0%B7%D1%8B%D1%87%D0%BD%D0%BE%D0%B8%CC%86%20%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D0%BD%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8)
+
+### [Социальные и профессиональные вопросы информатики и ИТ](https://github.com/vasandria/vasilisaefimova/tree/master/%D0%A1%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D0%B8%20%D0%BF%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%81%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B%20%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B8%20%D0%B8%20%D0%98%D0%A2)
+
+### [?? Информационные технологии оценки персонала]()
+
+### [?? Основы профессионального общения на иностранном языке]()
+
+### [?? Особенности профеcсиональной иноязычной коммуникации]()
 
 
 ### Программирование
