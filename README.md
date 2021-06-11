@@ -4,7 +4,6 @@
 Направленность (профиль) «Технологии разработки программного обеспечения»  
 форма обучения – очная
 
-## 1 СЕМЕСТР
 ### Информатика
 * [ЛР2](https://github.com/vasandria/informatics/blob/main/%D0%95%D1%84%D0%B8%D0%BC%D0%BE%D0%B2%D0%B0%20%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D0%B8%D1%81%D0%B0%20%D0%9B%D0%A02.docx)
 * [ЛР3](https://github.com/vasandria/informatics/blob/main/%D0%95%D1%84%D0%B8%D0%BC%D0%BE%D0%B2%D0%B0%20%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D0%B8%D1%81%D0%B0%20%D0%9B%D0%A03.docx)
@@ -20,11 +19,19 @@
 ### Безопасность жизнедеятельности
 * [Портфолио](https://github.com/vasandria/vasilisaefimova/blob/master/PORTFOLIO_BZhD_EFIMOVA_VS.docx)
 
-## 2 СЕМЕСТР
+###  Математика
+* [Интегралы 1](https://github.com/vasandria/vasilisaefimova/tree/master/%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0/%D0%98%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D0%BB%D1%8B.%20%D0%A7%D0%B0%D1%81%D1%82%D1%8C%201)
+* [Интегралы 2](https://github.com/vasandria/vasilisaefimova/tree/master/%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0/%D0%98%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D0%BB%D1%8B.%20%D0%A7%D0%B0%D1%81%D1%82%D1%8C%202)
+* [Интегралы 3](https://github.com/vasandria/vasilisaefimova/tree/master/%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0/%D0%98%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D0%BB%D1%8B.%20%D0%A7%D0%B0%D1%81%D1%82%D1%8C%203)
+* [Интегралы 4](https://github.com/vasandria/vasilisaefimova/tree/master/%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0/%D0%98%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D0%BB%D1%8B.%20%D0%A7%D0%B0%D1%81%D1%82%D1%8C%204)
+* [Интегралы 5](https://github.com/vasandria/vasilisaefimova/tree/master/%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0/%D0%98%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D0%BB%D1%8B.%20%D0%A7%D0%B0%D1%81%D1%82%D1%8C%205)
+* [Интегралы 6](https://github.com/vasandria/vasilisaefimova/tree/master/%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0/%D0%98%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D0%BB%D1%8B.%20%D0%A7%D0%B0%D1%81%D1%82%D1%8C%206)
+* [Производные](https://github.com/vasandria/vasilisaefimova/tree/master/%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0/%D0%9F%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%D0%BD%D1%8B%D0%B5)
+* [Интегралы ДЗ](https://github.com/vasandria/vasilisaefimova/blob/master/%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0/%D0%95%D1%84%D0%B8%D0%BC%D0%BE%D0%B2%D0%B0%20%D0%92.%D0%A1.%20%D0%94%D0%97%20%D0%98%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D0%BB%D1%8B.docx)
+* [Производные ДЗ](https://github.com/vasandria/vasilisaefimova/blob/master/%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0/%D0%95%D1%84%D0%B8%D0%BC%D0%BE%D0%B2%D0%B0%20%D0%92.%D0%A1.%20%D0%94%D0%97%20%D0%9F%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%D0%BD%D1%8B%D0%B5.docx)
 
-
-## 3 СЕМЕСТР
 ### Программирование
+
 * [ИСР 1.2](https://github.com/vasandria/vasilisaefimova/blob/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%203/isr1/3_isr_1.2.py)
 * [ИСР 1.3](https://github.com/vasandria/vasilisaefimova/blob/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%203/isr1/3_isr_1.3.py)
 * [ИСР 1.4](https://github.com/vasandria/vasilisaefimova/blob/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%203/isr1/3_isr_1.4.py)
@@ -34,8 +41,40 @@
 * [ВСР 2.2](https://github.com/vasandria/vasilisaefimova/blob/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%203/3_vsr_2.1.py)
 * [ИСР 3.2.1](https://github.com/vasandria/vasilisaefimova/blob/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%203/3_vsr_3.2.1.py)
 * [ИСР 3.2.2](https://github.com/vasandria/vasilisaefimova/blob/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%203/3_vsr_3.2.2.py)
+* [ИСР 4](https://github.com/vasandria/vasilisaefimova/tree/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%204/isr_4)
+* [ВСР 4.2.1](https://github.com/vasandria/vasilisaefimova/blob/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%204/vsr_4.py)
+* [ВСР 4.2.2](https://repl.it/@vasandria/vsr4)
+* [ВСР 1](https://repl.it/@vasandria/4vsr1)
+* [ИСР 2](https://github.com/vasandria/vasilisaefimova/blob/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%204/isr2.py)
+* [ВСР 2](https://repl.it/@vasandria/vsr2)
+* [ИСР 1.1](https://github.com/vasandria/vasilisaefimova/blob/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%205/isr_1.1.md)
+* [ИСР 1.2](https://github.com/vasandria/vasilisaefimova/tree/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%205/isr_1)
+* [ВСР 1](https://github.com/vasandria/vasilisaefimova/blob/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%205/vsr_1.md)
+* [ИСР 2](https://github.com/vasandria/vasilisaefimova/blob/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%205/isr_2.py)
+* [ВСР 2](https://github.com/vasandria/vasilisaefimova/blob/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%205/vsr_2.py)
+* [ИСР 3.1](https://github.com/vasandria/vasilisaefimova/blob/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%205/isr_3.py)
+* [ИСР 3.2](https://github.com/vasandria/vasilisaefimova/blob/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%205/isr_3.2.py)
+* [ИСР 4.1]()
+* [ИСР 4.2-3](https://github.com/vasandria/vasilisaefimova/tree/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%205/isr_4.1)
+* [Библиотека pyglet. Крестики-нолики. Групповое выступление](https://github.com/vasandria/vasilisaefimova/tree/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%206/krestiki-noliki)
+* [ИСР 1](https://github.com/vasandria/vasilisaefimova/tree/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%206/isr_1)
+* [ВСР 1](https://github.com/vasandria/vasilisaefimova/blob/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%206/vsr_1.py)
+* [ИСР 2.1.1](https://github.com/vasandria/vasilisaefimova/blob/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%206/isr2.py)
+* [ИСР 2.1.2](https://github.com/vasandria/vasilisaefimova/blob/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%206/isr_2.1.py)
+* [ИСР 2.2](https://github.com/vasandria/vasilisaefimova/blob/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%206/isr_2.2.py)
+* [ИСР 4.1](https://github.com/vasandria/vasilisaefimova/blob/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%206/isr_4.1.md)
+* [Дополнительное задание ](https://repl.it/@vasandria/dop)
+* [ЛР 1](https://github.com/herzenuni/sem7-task1-vasandria)
+* [ЛР 2](https://repl.it/@vasandria/sem7-task2#main.py)
+* [ЛР 4](https://github.com/vasandria/prog7_lr4)
+* [ЛР 5](https://github.com/vasandria/prog7_lr5)
+* [ЛР 6](https://github.com/vasandria/prog7_lr6)
+* [ИСР 1](https://repl.it/@vasandria/RoyalChartreuseMozbot#main.py)
+* [ИСР 2](https://repl.it/@vasandria/LeafyDarkturquoiseSolution#main.py)
+* [ИСР 3.1](https://github.com/vasandria/CouchDB_project)
+* [ВСР 1.1](https://github.com/vasandria/vasilisaefimova/blob/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%207/vsr_1.md)
+* [ВСР 2.3](https://github.com/vasandria/vasilisaefimova/blob/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%207/vsr2/main.py)
 
-## 4 СЕМЕСТР
 ### Проектирование и разработка веб-решений
 
 * [18/09/2018 Введение в JS](https://kodaktor.ru/g/task_2ad84)
@@ -43,15 +82,6 @@
 * [13/11/2018 async_tasks](https://codepen.io/anon/pen/XyqVZv)
 * [16/10/2018 Упражнение 6.1](/js/16-10-18)
 
-### Программирование
-* [ИСР 4](https://github.com/vasandria/vasilisaefimova/tree/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%204/isr_4)
-* [ВСР 4.2.1](https://github.com/vasandria/vasilisaefimova/blob/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%204/vsr_4.py)
-* [ВСР 4.2.2](https://repl.it/@vasandria/vsr4)
-* [ВСР 1](https://repl.it/@vasandria/4vsr1)
-* [ИСР 2](https://github.com/vasandria/vasilisaefimova/blob/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%204/isr2.py)
-* [ВСР 2](https://repl.it/@vasandria/vsr2)
-
-## 5 СЕМЕСТР
 ### [Информационные технологии в экономике и управлении](https://github.com/vasandria/ITEM)
 ### Управление программными проектами (УПП)
 Тема 1. Введение в проектное управление.  
@@ -76,47 +106,8 @@
 * [Тема 4. ПО управления проектами. ИСР, ВСР]()
 * [ЛР 14](https://github.com/ctel-prj-mng/3-ivt-17-t4-vasandria)
 
-### Программирование
-* [ИСР 1.1](https://github.com/vasandria/vasilisaefimova/blob/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%205/isr_1.1.md)
-* [ИСР 1.2](https://github.com/vasandria/vasilisaefimova/tree/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%205/isr_1)
-* [ВСР 1](https://github.com/vasandria/vasilisaefimova/blob/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%205/vsr_1.md)
-* [ИСР 2](https://github.com/vasandria/vasilisaefimova/blob/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%205/isr_2.py)
-* [ВСР 2](https://github.com/vasandria/vasilisaefimova/blob/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%205/vsr_2.py)
-* [ИСР 3.1](https://github.com/vasandria/vasilisaefimova/blob/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%205/isr_3.py)
-* [ИСР 3.2](https://github.com/vasandria/vasilisaefimova/blob/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%205/isr_3.2.py)
-* [ИСР 4.1]()
-* [ИСР 4.2-3](https://github.com/vasandria/vasilisaefimova/tree/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%205/isr_4.1)
-
-
-
-## 6 СЕМЕСТР
 ### [Инженерная и компьютерная графика](https://github.com/vasandria/graphics/blob/master/README.md)
-### Программирование
-* [Библиотека pyglet. Крестики-нолики. Групповое выступление](https://github.com/vasandria/vasilisaefimova/tree/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%206/krestiki-noliki)
-* [ИСР 1](https://github.com/vasandria/vasilisaefimova/tree/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%206/isr_1)
-* [ВСР 1](https://github.com/vasandria/vasilisaefimova/blob/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%206/vsr_1.py)
-* [ИСР 2.1.1](https://github.com/vasandria/vasilisaefimova/blob/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%206/isr2.py)
-* [ИСР 2.1.2](https://github.com/vasandria/vasilisaefimova/blob/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%206/isr_2.1.py)
-* [ИСР 2.2](https://github.com/vasandria/vasilisaefimova/blob/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%206/isr_2.2.py)
-* [ИСР 4.1](https://github.com/vasandria/vasilisaefimova/blob/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%206/isr_4.1.md)
 
-Дополнительное задание  
-* [cсылка](https://repl.it/@vasandria/dop)
-
-## 7 СЕМЕСТР
-### Программирование
-* [ЛР 1](https://github.com/herzenuni/sem7-task1-vasandria)
-* [ЛР 2](https://repl.it/@vasandria/sem7-task2#main.py)
-* [ЛР 4](https://github.com/vasandria/prog7_lr4)
-* [ЛР 5](https://github.com/vasandria/prog7_lr5)
-* [ЛР 6](https://github.com/vasandria/prog7_lr6)
-* [ИСР 1](https://repl.it/@vasandria/RoyalChartreuseMozbot#main.py)
-* [ИСР 2](https://repl.it/@vasandria/LeafyDarkturquoiseSolution#main.py)
-* [ИСР 3.1](https://github.com/vasandria/CouchDB_project)
-* [ВСР 1.1](https://github.com/vasandria/vasilisaefimova/blob/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%207/vsr_1.md)
-* [ВСР 2.3](https://github.com/vasandria/vasilisaefimova/blob/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%207/vsr2/main.py)
-
-## 8 СЕМЕСТР
 
 
 
