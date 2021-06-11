@@ -5,7 +5,20 @@
 форма обучения – очная
 
 ## 1 СЕМЕСТР
-### [Информатика](https://github.com/vasandria/informatics)
+### Информатика
+* [ЛР2](https://github.com/vasandria/informatics/blob/main/%D0%95%D1%84%D0%B8%D0%BC%D0%BE%D0%B2%D0%B0%20%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D0%B8%D1%81%D0%B0%20%D0%9B%D0%A02.docx)
+* [ЛР3](https://github.com/vasandria/informatics/blob/main/%D0%95%D1%84%D0%B8%D0%BC%D0%BE%D0%B2%D0%B0%20%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D0%B8%D1%81%D0%B0%20%D0%9B%D0%A03.docx)
+* [ЛР4](https://github.com/vasandria/informatics/blob/main/%D0%95%D1%84%D0%B8%D0%BC%D0%BE%D0%B2%D0%B0%20%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D0%B8%D1%81%D0%B0%20%D0%9B%D0%A04.docx)
+* [ЛР5](https://github.com/vasandria/informatics/blob/main/Efimova_Vasilisa_LR5.docx)
+* [ЛР6](https://github.com/vasandria/informatics/blob/main/%D0%95%D1%84%D0%B8%D0%BC%D0%BE%D0%B2%D0%B0%20%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D0%B8%D1%81%D0%B0%20%D0%9B%D0%A06%20(1).docx)
+* [ЛР7](https://github.com/vasandria/informatics/blob/main/%D0%95%D1%84%D0%B8%D0%BC%D0%BE%D0%B2%D0%B0%20%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D0%B8%D1%81%D0%B0%20%D0%9B%D0%A07%20(1).docx)
+* [ЛР8](https://github.com/vasandria/informatics/blob/main/%D0%95%D1%84%D0%B8%D0%BC%D0%BE%D0%B2%D0%B0%20%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D0%B8%D1%81%D0%B0%20%D0%9B%D0%A08.docx)
+* [ЛР10](https://github.com/vasandria/informatics/blob/main/%D0%95%D1%84%D0%B8%D0%BC%D0%BE%D0%B2%D0%B0%20%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D0%B8%D1%81%D0%B0%20%D0%9B%D0%A010.docx)
+* [ЛР11](https://github.com/vasandria/informatics/blob/main/%D0%95%D1%84%D0%B8%D0%BC%D0%BE%D0%B2%D0%B0%20%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D0%B8%D1%81%D0%B0%20%D0%9B%D0%A011.docx)
+* [ЛР12](https://github.com/vasandria/informatics/blob/main/%D0%95%D1%84%D0%B8%D0%BC%D0%BE%D0%B2%D0%B0%20%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D0%B8%D1%81%D0%B0%20%D0%9B%D0%A012.docx)
+
+### Безопасность жизнедеятельности
+* [Портфолио](https://github.com/vasandria/vasilisaefimova/blob/master/PORTFOLIO_BZhD_EFIMOVA_VS.docx)
 
 ## 2 СЕМЕСТР
 
