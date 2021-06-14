@@ -88,7 +88,7 @@
 * [Системы дифференциальных уравнений](https://github.com/vasandria/vasilisaefimova/tree/master/%D0%92%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B%20%D0%B4%D0%B8%D1%84%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D1%83%D1%80%D0%B0%D0%B2%D0%BD%D0%B5%D0%BD%D0%B8%D0%B8%CC%86)
 
 ### Операционные системы  
-[Гугл Диск](https://drive.google.com/drive/folders/1b5TGyCTdQizV94vZthUtgWYdqJ_2hbKM?usp=sharing)
+[Гугл Диск](https://drive.google.com/drive/folders/1b5TGyCTdQizV94vZthUtgWYdqJ_2hbKM?usp=sharing)  
 Лабораторные работы
 * [Лабораторная работа 1](https://github.com/vasandria/vasilisaefimova/blob/master/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/%D0%95%D1%84%D0%B8%D0%BC%D0%BE%D0%B2%D0%B0%20%D0%92.%D0%A1.%20%D0%98%D0%92%D0%A21(2)%20%D0%9B%D0%A0/%D0%95%D1%84%D0%B8%D0%BC%D0%BE%D0%B2%D0%B0%20%D0%92.%D0%A1.%20%D0%98%D0%92%D0%A21(2)%20%D0%9B%D0%A01.docx)
 * [Лабораторная работа 2](https://github.com/vasandria/vasilisaefimova/blob/master/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/%D0%95%D1%84%D0%B8%D0%BC%D0%BE%D0%B2%D0%B0%20%D0%92.%D0%A1.%20%D0%98%D0%92%D0%A21(2)%20%D0%9B%D0%A0/%D0%95%D1%84%D0%B8%D0%BC%D0%BE%D0%B2%D0%B0%20%D0%92.%D0%A1.%20%D0%98%D0%92%D0%A21(2)%20%D0%9B%D0%A02.docx)
@@ -112,7 +112,7 @@
 ## 4 семестр
 
 ### Основы компьютерной алгебры  
-[Гугл Диск](https://drive.google.com/drive/folders/1zTQvs2SwOJBqcVZY33o_UZmTO310TPcS?usp=sharing)
+[Гугл Диск](https://drive.google.com/drive/folders/1zTQvs2SwOJBqcVZY33o_UZmTO310TPcS?usp=sharing)  
 [Гит](https://github.com/vasandria/vasilisaefimova/tree/master/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D0%BE%D0%B8%CC%86%20%D0%90%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D1%8B)
 
 ### Деловое общение
@@ -128,7 +128,7 @@
 * [STORAGE DEVICES WE USE EVERYDAY PRESENTATION](https://github.com/vasandria/vasilisaefimova/blob/master/%D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D0%BE%D0%B5%20%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D0%B5/STORAGE%20DEVICES%20WE%20USE%20EVERYDAY.pptx)
 
 ### Базы Данных  
-[Гугл Диск](https://drive.google.com/drive/folders/1o_4EkvSmEl6LD3BwchqtCmlnWJF8mE8Z?usp=sharing)
+[Гугл Диск](https://drive.google.com/drive/folders/1o_4EkvSmEl6LD3BwchqtCmlnWJF8mE8Z?usp=sharing)  
 [Гит](https://github.com/vasandria/vasilisaefimova/tree/master/%D0%91%D0%B0%D0%B7%D1%8B%20%D0%94%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)
 
 ### Информационные технологии в решении задач оптимизации  
@@ -161,7 +161,7 @@
 * [13/11/2018 async_tasks](https://codepen.io/anon/pen/XyqVZv)
 * [16/10/2018 Упражнение 6.1](/js/16-10-18)
 
-## Обогащенные интерфейсы веб-приложений
+### Обогащенные интерфейсы веб-приложений
 
 * [21/02/2019 Создание пользовательского события. Корзина.](https://kodaktor.ru/custom_d842f "Создание пользовательского события. Корзина.")
 * [21/02/2019 Создание пользовательского события. evnt_002 ](https://kodaktor.ru/custom_a96fb)
@@ -319,7 +319,7 @@
 * [Лабораторная работа 5-6](https://github.com/vasandria/vasilisaefimova/blob/master/%D0%98%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8%20%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%B8%20%D0%BF%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D0%B0/%D0%95%D1%84%D0%B8%D0%BC%D0%BE%D0%B2%D0%B0%D0%92%D0%A1_%D0%9B%D0%A05-6.pdf)
 
 
-### Программирование
+### Программирование  
 3 семестр
 * [Инвариантная самостоятельная работа 1.2](https://github.com/vasandria/vasilisaefimova/blob/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%203/isr1/3_isr_1.2.py)
 * [Инвариантная самостоятельная работа 1.3](https://github.com/vasandria/vasilisaefimova/blob/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%203/isr1/3_isr_1.3.py)
@@ -333,12 +333,14 @@
 * [Инвариантная самостоятельная работа 4](https://github.com/vasandria/vasilisaefimova/tree/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%204/isr_4)
 * [Вариативная самостоятельная работа 4.2.1](https://github.com/vasandria/vasilisaefimova/blob/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%204/vsr_4.py)
 * [Вариативная самостоятельная работа 4.2.2](https://repl.it/@vasandria/vsr4)  
+  
 4 семестр
 * [Вариативная самостоятельная работа 1](https://repl.it/@vasandria/4vsr1)
 * [Инвариантная самостоятельная работа 2](https://github.com/vasandria/vasilisaefimova/blob/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%204/isr2.py)
 * [Вариативная самостоятельная работа 2](https://repl.it/@vasandria/vsr2)
 * [Инвариантная самостоятельная работа 1.1](https://github.com/vasandria/vasilisaefimova/blob/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%205/isr_1.1.md)
 * [Инвариантная самостоятельная работа 1.2](https://github.com/vasandria/vasilisaefimova/tree/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%205/isr_1)  
+  
 5 семестр
 * [ВСР 1](https://github.com/vasandria/vasilisaefimova/blob/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%205/vsr_1.md)
 * [Инвариантная самостоятельная работа 2](https://github.com/vasandria/vasilisaefimova/blob/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%205/isr_2.py)
@@ -348,6 +350,7 @@
 * [Инвариантная самостоятельная работа 4.1]()
 * [Инвариантная самостоятельная работа 4.2-3](https://github.com/vasandria/vasilisaefimova/tree/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%205/isr_4.1)
 * [Библиотека pyglet. Крестики-нолики. Групповое выступление](https://github.com/vasandria/vasilisaefimova/tree/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%206/krestiki-noliki)  
+  
 6 семестр
 * [Инвариантная самостоятельная работа 1](https://github.com/vasandria/vasilisaefimova/tree/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%206/isr_1)
 * [Вариативная самостоятельная работа 1](https://github.com/vasandria/vasilisaefimova/blob/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%206/vsr_1.py)
@@ -356,6 +359,7 @@
 * [Инвариантная самостоятельная работа 2.2](https://github.com/vasandria/vasilisaefimova/blob/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%206/isr_2.2.py)
 * [Инвариантная самостоятельная работа 4.1](https://github.com/vasandria/vasilisaefimova/blob/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%206/isr_4.1.md)
 * [Дополнительное задание ](https://repl.it/@vasandria/dop)  
+  
 7 семестр
 * [Лабораторная работа 1](https://github.com/herzenuni/sem7-task1-vasandria)
 * [Лабораторная работа 2](https://repl.it/@vasandria/sem7-task2#main.py)
