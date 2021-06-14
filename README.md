@@ -134,7 +134,14 @@
 * [Тема 4. ПО управления проектами. ИСР, ВСР]()
 * [Лабораторная работа 14](https://github.com/ctel-prj-mng/3-ivt-17-t4-vasandria)
 
-### [?? Техника и технологии представления и публикации информации]()
+### Техника и технологии представления и публикации информации
+* [Лабортаторная работа 1](https://github.com/vasandria/vasilisaefimova/blob/master/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0%20%D0%B8%20%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8%20%D0%BF%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%B8%20%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%B8/%D0%9B%D0%A01%20%D0%95%D1%84%D0%B8%D0%BC%D0%BE%D0%B2%D0%B0%20%D0%92.%D0%A1_.docx)
+* [Технические средства информационных технологий](https://github.com/vasandria/vasilisaefimova/tree/master/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0%20%D0%B8%20%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8%20%D0%BF%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%B8%20%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%B8/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5%20%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%B0%20%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D1%85%20%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8%CC%86)
+* [Средства организационной техники](https://github.com/vasandria/vasilisaefimova/tree/master/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0%20%D0%B8%20%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8%20%D0%BF%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%B8%20%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%B8/%D0%A1%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%B0%20%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B8%CC%86%20%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B8)
+* [Средства коммуникационной техники](https://github.com/vasandria/vasilisaefimova/tree/master/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0%20%D0%B8%20%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8%20%D0%BF%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%B8%20%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%B8/%D0%A1%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%B0%20%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D0%BD%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B8%CC%86%20%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B8)
+* [Средства вычислительной техники](https://github.com/vasandria/vasilisaefimova/tree/master/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0%20%D0%B8%20%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8%20%D0%BF%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%B8%20%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%B8/%D0%A1%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%B0%20%D0%B2%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B8%CC%86%20%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B8)
+* [Итоговые задания к лекциям](https://github.com/vasandria/vasilisaefimova/tree/master/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0%20%D0%B8%20%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8%20%D0%BF%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%B8%20%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%B8/%D0%98%D1%82%D0%BE%D0%B3%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%BA%20%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%D0%BC)
+* [Итоговые задания](https://github.com/vasandria/vasilisaefimova/tree/master/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0%20%D0%B8%20%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8%20%D0%BF%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%B8%20%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%B8/%D0%98%D1%82%D0%BE%D0%B3%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F)
 
 ### [Сети и телекоммуникации](https://github.com/vasandria/vasilisaefimova/tree/master/%D0%A1%D0%B5%D1%82%D0%B8%20%D0%B8%20%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D0%BD%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8)
 
@@ -158,23 +165,31 @@
 
 ## 7 семестр
 
-### [?? Организация электронной образовательной среды где-то на гит]()
+### Организация электронной образовательной
+* [Задания 1-3](https://github.com/vasandria/EIOS-week1)
+* [Задание 4](https://github.com/vasandria/EIOS-week4)
 
 ### [Практикум по программированию](https://github.com/vasandria/vasilisaefimova/tree/master/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D1%83%D0%BC%20%D0%BF%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8E)
 
 ## 8 семестр
 
-### [?? IT-рекрутмент]()
+### IT-рекрутмент
+* [Самостоятельная работа 1](https://github.com/vasandria/vasilisaefimova/blob/master/IT-%D1%80%D0%B5%D0%BA%D1%80%D1%83%D1%82%D0%BC%D0%B5%D0%BD%D1%82/%D0%95%D1%84%D0%B8%D0%BC%D0%BE%D0%B2%D0%B0%D0%92%D0%A1_%D0%A1%D0%A01.pdf)
+* [Лабораторная работа 1-2](https://github.com/vasandria/vasilisaefimova/blob/master/IT-%D1%80%D0%B5%D0%BA%D1%80%D1%83%D1%82%D0%BC%D0%B5%D0%BD%D1%82/%D0%95%D1%84%D0%B8%D0%BC%D0%BE%D0%B2%D0%B0%D0%92%D0%A1_%D0%9B%D0%A01-2.pdf)
+* [Лабораторная работа 3](https://github.com/vasandria/vasilisaefimova/blob/master/IT-%D1%80%D0%B5%D0%BA%D1%80%D1%83%D1%82%D0%BC%D0%B5%D0%BD%D1%82/%D0%95%D1%84%D0%B8%D0%BC%D0%BE%D0%B2%D0%B0%D0%92%D0%A1_%D0%9B%D0%A03.pdf)
+* [Лабораторная работа 3. Канва](https://github.com/vasandria/vasilisaefimova/blob/master/IT-%D1%80%D0%B5%D0%BA%D1%80%D1%83%D1%82%D0%BC%D0%B5%D0%BD%D1%82/%D0%95%D1%84%D0%B8%D0%BC%D0%BE%D0%B2%D0%B0%D0%92%D0%A1_%D0%9B%D0%A03_%D0%9A%D0%B0%D0%BD%D0%B2%D0%B0.pdf)
+* [Лабораторная работа 4 3.1](https://github.com/vasandria/vasilisaefimova/blob/master/IT-%D1%80%D0%B5%D0%BA%D1%80%D1%83%D1%82%D0%BC%D0%B5%D0%BD%D1%82/%D0%95%D1%84%D0%B8%D0%BC%D0%BE%D0%B2%D0%B0%D0%92%D0%A1_%D0%9B%D0%A04_3.1.pdf)
+* [Лабораторная работа 4-5](https://github.com/vasandria/vasilisaefimova/blob/master/IT-%D1%80%D0%B5%D0%BA%D1%80%D1%83%D1%82%D0%BC%D0%B5%D0%BD%D1%82/%D0%95%D1%84%D0%B8%D0%BC%D0%BE%D0%B2%D0%B0%D0%92%D0%A1_%D0%9B%D0%A04-5_3.2.pdf)
+* [Лабораторная работа 7](https://github.com/vasandria/vasilisaefimova/blob/master/IT-%D1%80%D0%B5%D0%BA%D1%80%D1%83%D1%82%D0%BC%D0%B5%D0%BD%D1%82/%D0%95%D1%84%D0%B8%D0%BC%D0%BE%D0%B2%D0%B0%D0%92%D0%A1_%D0%9B%D0%A07.pdf)
 
 ### [Лингвистические основы иноязычной коммуникации](https://github.com/vasandria/vasilisaefimova/tree/master/%D0%9B%D0%B8%D0%BD%D0%B3%D0%B2%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5%20%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%B8%D0%BD%D0%BE%D1%8F%D0%B7%D1%8B%D1%87%D0%BD%D0%BE%D0%B8%CC%86%20%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D0%BD%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8)
 
 ### [Социальные и профессиональные вопросы информатики и ИТ](https://github.com/vasandria/vasilisaefimova/tree/master/%D0%A1%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D0%B8%20%D0%BF%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%81%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B%20%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B8%20%D0%B8%20%D0%98%D0%A2)
 
-### [?? Информационные технологии оценки персонала]()
-
-### [?? Основы профессионального общения на иностранном языке]()
-
-### [?? Особенности профеcсиональной иноязычной коммуникации]()
+### Информационные технологии оценки персонала
+* [Лабораторная работа 1-2](https://github.com/vasandria/vasilisaefimova/blob/master/%D0%98%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8%20%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%B8%20%D0%BF%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D0%B0/%D0%95%D1%84%D0%B8%D0%BC%D0%BE%D0%B2%D0%B0%D0%92%D0%A1_%D0%9B%D0%A01-2.pdf)
+* [Лабораторная работа 3-4](https://github.com/vasandria/vasilisaefimova/blob/master/%D0%98%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8%20%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%B8%20%D0%BF%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D0%B0/%D0%95%D1%84%D0%B8%D0%BC%D0%BE%D0%B2%D0%B0%D0%92%D0%A1_%D0%9B%D0%A03-4.pdf)
+* [Лабораторная работа 5-6](https://github.com/vasandria/vasilisaefimova/blob/master/%D0%98%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8%20%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%B8%20%D0%BF%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D0%B0/%D0%95%D1%84%D0%B8%D0%BC%D0%BE%D0%B2%D0%B0%D0%92%D0%A1_%D0%9B%D0%A05-6.pdf)
 
 
 ### Программирование
