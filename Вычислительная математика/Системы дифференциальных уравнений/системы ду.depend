@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1545913280 source:c:\users\vasan\desktop\учеба\3 семестр\вычмат\Новая папка\системы ду\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
