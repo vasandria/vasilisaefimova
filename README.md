@@ -80,6 +80,31 @@
 
 ### [Технологии компьютерного моделирования](https://github.com/vasandria/vasilisaefimova/tree/master/%D0%A2%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8%20%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F)
 
+### Проектирование и разработка веб-решений
+
+* [18/09/2018 Введение в JS](https://kodaktor.ru/g/task_2ad84)
+* [25/10/2018](/js/25-10-2018)
+* [13/11/2018 async_tasks](https://codepen.io/anon/pen/XyqVZv)
+* [16/10/2018 Упражнение 6.1](/js/16-10-18)
+
+## Обогащенные интерфейсы веб-приложений
+
+* [21/02/2019 Создание пользовательского события. Корзина.](https://kodaktor.ru/custom_d842f "Создание пользовательского события. Корзина.")
+* [21/02/2019 Создание пользовательского события. evnt_002 ](https://kodaktor.ru/custom_a96fb)
+* [FUNC-001](https://kodaktor.ru/b83d4ca)
+* [FUNC-002](https://kodaktor.ru/func_7c211)
+* [FUNC-003](https://kodaktor.ru/func_2a666)
+* [FUNC-004](https://kodaktor.ru/func_1b1b4)
+* [FUNC-005](https://kodaktor.ru/func_cd358)
+* [FUNC-006](https://kodaktor.ru/func_69721)
+* [FUNC-007](https://kodaktor.ru/func_8fb66)
+* [FUNC-008](https://kodaktor.ru/func_83990)
+* [FUNC-009](https://kodaktor.ru/func_e4522)
+* [FUNC-010](https://kodaktor.ru/b83d4ca)
+* [IPS_TASK](https://kodaktor.ru/9e8363b)
+* [evnt_003 ](https://kodaktor.ru/evnt_51c8a)
+* [BABL_002](https://kodaktor.ru/bind02032018_fe671)
+
 ## 5 семестр
 
 ### [Интегрированные издательские системы и технологии](https://github.com/vasandria/vasilisaefimova/tree/master/%D0%98%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%B8%D0%B7%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B%20%D0%B8%20%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8)
@@ -165,13 +190,13 @@
 * [ИСР 3.2.2](https://github.com/vasandria/vasilisaefimova/blob/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%203/3_vsr_3.2.2.py)
 * [ИСР 4](https://github.com/vasandria/vasilisaefimova/tree/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%204/isr_4)
 * [ВСР 4.2.1](https://github.com/vasandria/vasilisaefimova/blob/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%204/vsr_4.py)
-* [ВСР 4.2.2](https://repl.it/@vasandria/vsr4)
+* [ВСР 4.2.2](https://repl.it/@vasandria/vsr4)  
 4 семестр
 * [ВСР 1](https://repl.it/@vasandria/4vsr1)
 * [ИСР 2](https://github.com/vasandria/vasilisaefimova/blob/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%204/isr2.py)
 * [ВСР 2](https://repl.it/@vasandria/vsr2)
 * [ИСР 1.1](https://github.com/vasandria/vasilisaefimova/blob/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%205/isr_1.1.md)
-* [ИСР 1.2](https://github.com/vasandria/vasilisaefimova/tree/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%205/isr_1)
+* [ИСР 1.2](https://github.com/vasandria/vasilisaefimova/tree/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%205/isr_1)  
 5 семестр
 * [ВСР 1](https://github.com/vasandria/vasilisaefimova/blob/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%205/vsr_1.md)
 * [ИСР 2](https://github.com/vasandria/vasilisaefimova/blob/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%205/isr_2.py)
@@ -180,7 +205,7 @@
 * [ИСР 3.2](https://github.com/vasandria/vasilisaefimova/blob/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%205/isr_3.2.py)
 * [ИСР 4.1]()
 * [ИСР 4.2-3](https://github.com/vasandria/vasilisaefimova/tree/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%205/isr_4.1)
-* [Библиотека pyglet. Крестики-нолики. Групповое выступление](https://github.com/vasandria/vasilisaefimova/tree/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%206/krestiki-noliki)
+* [Библиотека pyglet. Крестики-нолики. Групповое выступление](https://github.com/vasandria/vasilisaefimova/tree/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%206/krestiki-noliki)  
 6 семестр
 * [ИСР 1](https://github.com/vasandria/vasilisaefimova/tree/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%206/isr_1)
 * [ВСР 1](https://github.com/vasandria/vasilisaefimova/blob/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%206/vsr_1.py)
@@ -188,7 +213,7 @@
 * [ИСР 2.1.2](https://github.com/vasandria/vasilisaefimova/blob/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%206/isr_2.1.py)
 * [ИСР 2.2](https://github.com/vasandria/vasilisaefimova/blob/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%206/isr_2.2.py)
 * [ИСР 4.1](https://github.com/vasandria/vasilisaefimova/blob/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%206/isr_4.1.md)
-* [Дополнительное задание ](https://repl.it/@vasandria/dop)
+* [Дополнительное задание ](https://repl.it/@vasandria/dop)  
 7 семестр
 * [ЛР 1](https://github.com/herzenuni/sem7-task1-vasandria)
 * [ЛР 2](https://repl.it/@vasandria/sem7-task2#main.py)
@@ -201,33 +226,6 @@
 * [ВСР 1.1](https://github.com/vasandria/vasilisaefimova/blob/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%207/vsr_1.md)
 * [ВСР 2.3](https://github.com/vasandria/vasilisaefimova/blob/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%B5%D0%BC%207/vsr2/main.py)
 
-### Проектирование и разработка веб-решений
-
-* [18/09/2018 Введение в JS](https://kodaktor.ru/g/task_2ad84)
-* [25/10/2018](/js/25-10-2018)
-* [13/11/2018 async_tasks](https://codepen.io/anon/pen/XyqVZv)
-* [16/10/2018 Упражнение 6.1](/js/16-10-18)
-
-
-
-
-## Обогащенные интерфейсы веб-приложений
-
-* [21/02/2019 Создание пользовательского события. Корзина.](https://kodaktor.ru/custom_d842f "Создание пользовательского события. Корзина.")
-* [21/02/2019 Создание пользовательского события. evnt_002 ](https://kodaktor.ru/custom_a96fb)
-* [FUNC-001](https://kodaktor.ru/b83d4ca)
-* [FUNC-002](https://kodaktor.ru/func_7c211)
-* [FUNC-003](https://kodaktor.ru/func_2a666)
-* [FUNC-004](https://kodaktor.ru/func_1b1b4)
-* [FUNC-005](https://kodaktor.ru/func_cd358)
-* [FUNC-006](https://kodaktor.ru/func_69721)
-* [FUNC-007](https://kodaktor.ru/func_8fb66)
-* [FUNC-008](https://kodaktor.ru/func_83990)
-* [FUNC-009](https://kodaktor.ru/func_e4522)
-* [FUNC-010](https://kodaktor.ru/b83d4ca)
-* [IPS_TASK](https://kodaktor.ru/9e8363b)
-* [evnt_003 ](https://kodaktor.ru/evnt_51c8a)
-* [BABL_002](https://kodaktor.ru/bind02032018_fe671)
 
 
 
